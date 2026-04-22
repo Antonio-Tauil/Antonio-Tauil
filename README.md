@@ -34,14 +34,6 @@ Analista de Datos con sólida experiencia en la arquitectura de soluciones y met
 * **Atención al Cliente y Resolución de Problemas** | *INVEDIN* (2019 - 2023)  
     * Gestión y resolución de consultas complejas, asegurando tiempos de respuesta óptimos y calidad en el servicio.
 
-
-## Actividad reciente
-<!---RECENT_ACTIVITY:start-->
-<!---RECENT_ACTIVITY:end-->
-
-
-
-
 ## 🎓 Educación
 * **Ingeniería de Sistemas** - Universidad Metropolitana (En curso, 2019-2026) 
 * **Bachillerato** - Instituto Cumbres de Caracas (2007-2018) 
