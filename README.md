@@ -33,14 +33,7 @@ Analista de Datos con sólida experiencia en la arquitectura de soluciones y met
 
 * **Atención al Cliente y Resolución de Problemas** | *INVEDIN* (2019 - 2023)  
     * Gestión y resolución de consultas complejas, asegurando tiempos de respuesta óptimos y calidad en el servicio.
-## Actividad reciente 
-<!--START\_SECTION:activity-->
 
-<!--END\_SECTION:activity-->
-
-\<!--RECENT\_ACTIVITY:start-->
-    Last updated:Tuesday, April 21th,2026, 11:27 PM
-\<!--RECENT\_ACTIVITY:last\_update-->
 
 
 
