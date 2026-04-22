@@ -41,6 +41,7 @@ Analista de Datos con sólida experiencia en la arquitectura de soluciones y met
 
 
 
+
 ## 🎓 Educación
 * **Ingeniería de Sistemas** - Universidad Metropolitana (En curso, 2019-2026) 
 * **Bachillerato** - Instituto Cumbres de Caracas (2007-2018) 
