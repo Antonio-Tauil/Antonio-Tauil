@@ -35,10 +35,12 @@ Analista de Datos con sólida experiencia en la arquitectura de soluciones y met
     * Gestión y resolución de consultas complejas, asegurando tiempos de respuesta óptimos y calidad en el servicio.
 ## Actividad reciente 
 <!--START\_SECTION:activity-->
-    
+
 <!--END\_SECTION:activity-->
 
+\<!--RECENT\_ACTIVITY:start-->
 
+\<!--RECENT\_ACTIVITY:last\_update-->
 
 
 
