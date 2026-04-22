@@ -1,0 +1,4 @@
+# Configuración para mostrar tu actividad reciente
+settings:
+  # Límite de eventos a mostrar
+  max_lines: 5
