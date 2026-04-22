@@ -2,15 +2,19 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Se ejecuta cada 12 horas en punto
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     name: Update Profile README
     runs-on: ubuntu-latest
     permissions:
-      contents: write # CRUCIAL: Permite que el bot edite tu README
+      contents: write
+    # Esta es la clave para eliminar el aviso de depreciación:
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
+
     steps:
       - uses: actions/checkout@v4
       - uses: Readme-Workflows/recent-activity@v2.4.1
