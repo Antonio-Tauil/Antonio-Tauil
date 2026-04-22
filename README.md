@@ -36,9 +36,9 @@ Analista de Datos con sólida experiencia en la arquitectura de soluciones y met
 
 
 ## Actividad reciente
-<!--RECENT\_ACTIVITY:start-->
+<!---RECENT_ACTIVITY:start-->
+<!---RECENT_ACTIVITY:end-->
 
-<!--RECENT\_ACTIVITY:last\_update-->
 
 
 ## 🎓 Educación
